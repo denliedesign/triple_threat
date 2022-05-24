@@ -1,0 +1,461 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: black;
+}
+
+.font-lora {
+    font-family: 'Lora', serif;
+}
+
+h1 {
+    font-family: 'Lora', serif;
+    color: #3C9294;
+    text-align: center;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 38px;
+    margin: 38px 0;
+    font-weight: 500;
+    /*padding-right: 7%;*/
+}
+
+h3 {
+    font-family: 'Lora', serif;
+    color: #3C9294;
+    text-transform: uppercase;
+    letter-spacing: 10px;
+    font-size: 30px;
+    margin-top: 19px;
+    margin-bottom: 0;
+    padding-bottom: 0;
+    font-weight: 500;
+}
+
+.nav-link:hover {
+    color: #99D3D6 !important;
+}
+
+.gradient-splash {
+    /*background: linear-gradient(to right, #C60711, #C01A7F);*/
+    background: #3C9294;
+}
+
+#nav-21,
+#nav-21 a,
+#nav-21 ion-icon {
+    /*color: black;*/
+    font-size: 1.05em;
+    opacity: 90%;
+}
+
+#nav-list-21 a {
+    color: white;
+}
+
+#primary-bg {
+    height: 90vh;
+    width: 100%;
+    background: url("/images/bg-main-backstage.jpg");
+    background-size: cover;
+    background-position: top;
+    /*background-attachment: fixed;*/
+    position: relative;
+}
+
+.color-filter-black {
+    position: absolute;
+    background: black;
+    opacity: 40%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-white {
+    position: absolute;
+    background: white;
+    opacity: 40%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-teal {
+    position: absolute;
+    background: #15968D;
+    opacity: 40%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-purple {
+    position: absolute;
+    background: #C01A7F;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+#primary-txt {
+    position: absolute;
+    top: 20%;
+    left: 15%;
+    width: 40%;
+    /*transform: translate(-50%, -50%);*/
+    font-size: 4em;
+    text-align: center;
+    color: black;
+    text-transform: lowercase;
+}
+
+#primary-txt-mobile {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    font-size: 3em;
+    text-align: center;
+    color: black;
+    text-transform: lowercase;
+}
+
+.secondary-txt {
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.btn-family {
+    color: white;
+    border-radius: 30px;
+    transition: background 0.4s ease;
+    padding: 10px 20px;
+}
+
+.bg-turqoise {
+    background: rgba(30, 193, 217, 1);
+    color: white;
+}
+
+.bg-kapa-orange { background: rgba(235, 151, 29, 1); }
+
+.btn-kapa-teal-outline:hover { background: rgba(28, 143, 145, 1); color: white; }
+
+.underline-teal { border: 2px solid RGBA(28, 143, 145, 1); transition: 0.8s background ease; }
+.underline-orange { border: 2px solid RGBA(235, 151, 29, 1); transition: 0.8s background ease; }
+.underline-pink { border: 2px solid RGBA(209, 60, 152, 1); transition: 0.8s background ease; }
+.underline-green { border: 2px solid RGBA(150, 154, 60, 1); transition: 0.8s background ease; }
+
+.underline-teal:hover { background: RGBA(28, 143, 145, 1); }
+.underline-orange:hover { background: RGBA(235, 151, 29, 1); }
+.underline-pink:hover { background: RGBA(209, 60, 152, 1); }
+.underline-green:hover { background: RGBA(150, 154, 60, 1); }
+
+.primary-btn-pos {
+    position: absolute;
+    bottom: 35%;
+    left: 19%;
+    /*transform: translate(-50%, -50%);*/
+}
+
+#button-tablet {
+    position: absolute;
+    bottom: 35%;
+    left: 18%;
+}
+
+#button-mobile {
+    position: absolute;
+    bottom: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.secondary-txt-pos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-size: 1.25em;
+}
+
+.tertiary-txt-pos {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*width: 100%;*/
+    font-size: 1.25em;
+}
+
+#vision {
+    transform: translateY(-80px);
+}
+
+#next-steps {
+    transform: translateY(-150px);
+}
+
+.next-step {
+    background: white;
+    color: black;
+    width: 300px;
+    height: 200px;
+    padding: 40px 20px;
+    text-align: center;
+    margin: 0 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+#checklist-bg p
+/*#checklist-bg h2,*/
+{
+    /*text-shadow: 1px 1px 4px black;*/
+    font-size: 1.5em;
+    font-weight: bold;
+    color: black;
+}
+
+#checklist-bg ion-icon {
+    color: #12686C;
+}
+
+#checklist-bg {
+    min-height: max-content;
+    height: 90vh;
+    width: 100%;
+    background: url("/images/bg-parents-love.jpg");
+    background-size: cover;
+    background-position: center;
+    /*background-attachment: fixed;*/
+    position: relative;
+}
+
+#mtjgd-bg {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/mtjgd-bg.jpg");
+    background-size: cover;
+    background-position: center;
+    /*background-attachment: fixed;*/
+    position: relative;
+}
+
+#testimonials .col-md {
+    background: white;
+    border-radius: 15px;
+}
+
+#footer ion-icon {
+    font-size: 1.5em;
+}
+
+.banner-wrap {
+    height: 300px;
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images/banner-brooklyn.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    /*filter: hue-rotate(-20deg);*/
+}
+
+/*---------------------------------------*/
+/* BIO ACCORDION */
+/*---------------------------------------*/
+/* Style the buttons that are used to open and close the accordion panel */
+.bioaccordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    background: white;
+}
+
+.bioaccordion:hover {
+    background: #ebe82e;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.biopanel {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out;
+    z-index: 1;
+    width: 100%;
+    background: white;
+}
+
+.biopanel-open {
+    width: 100%;
+    background: white;
+}
+
+.box-one { background: #eab830; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-two { background: #307ad5; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-three { background: #1ec1d9; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-four { background: #10c45c; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-five { background: #d94da6; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+
+#fall-select a {
+    text-decoration: none;
+}
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
+
+.accordion-button {
+    background: #99D3D6 !important;
+}
+
+.accordion-button::after {
+    background-image: none !important;
+}
+
+#enroll-form label {
+    text-align: right;
+}
+
+.hover-blue a:hover {
+    color:blue !important;
+}
+
+@font-face {
+    font-family: Nutcracker;
+    src: url('/fonts/nutcracker.ttf');
+}
+
+/* ******************************** faculty ******************************* */
+
+.staff-alexa { background: url("/images/staff-alexa.jpg");}
+.staff-ali { background: url("/images/staff-ali.jpg");}
+.staff-david { background: url("/images/staff-david.jpg");}
+.staff-kaitlyn { background: url("/images/staff-kaitlyn.jpg");}
+.staff-kylin { background: url("/images/staff-kylin.jpg");}
+.staff-serena { background: url("/images/staff-serena.jpg");}
+.staff-stevie { background: url("/images/staff-stevie.jpg");}
+
+.staff-alexa:hover { background: url("/images/staff-alexa-pose.jpg");}
+.staff-ali:hover { background: url("/images/staff-ali-pose.jpg");}
+.staff-david:hover { background: url("/images/staff-david-pose.jpg");}
+.staff-kaitlyn:hover { background: url("/images/staff-kaitlyn-pose.jpg");}
+.staff-kylin:hover { background: url("/images/staff-kylin-pose.jpg");}
+.staff-serena:hover { background: url("/images/staff-serena.jpg");}
+.staff-stevie:hover { background: url("/images/staff-stevie-pose.jpg");}
+
+.staff-wrap {
+    height: 450px;
+    width: 100%;
+    margin: 15px;
+    padding: 0;
+}
+
+.staff-bg {
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+.staff-bg:hover {
+    background-position: center;
+    background-attachment: scroll;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
+
+/* ******************************** end faculty ******************************* */
+
+@media only screen and (max-width: 600px) {
+    #enroll-form label {
+        text-align: left;
+    }
+}
+
+/*
+
+old grey
+#404040
+
+duckduckgo baby blue (complementary to red)
+#22F0E9
+
+duckduckgo pink (analogous to red)
+#F02290
+
+palleton blush
+#FB4C55
+
+rockstar logo red
+#F02129
+rgba(240, 33, 41, 1)
+
+palleton blood
+#C60711
+
+paletton teal
+#15968D
+rgba(21, 150, 141, 1)
+
+paletton lime green
+#A8E520
+
+paletton purply-pink
+#C01A7F
+rgba(192, 26, 127, 1)
+
+ */
+
+.btn-light-teal { background: rgba(153, 211, 214, 1); color: white;}
+.btn-light-teal:hover { background: rgba(153, 211, 214, 0.7); color: white;}
+.btn-light-teal-outline { border: 2px solid rgba(153, 211, 214, 1); background: transparent; transition: 0.8s all ease;}
+.btn-teal { background: rgba(60, 144, 148, 1); color: white;}
+.btn-teal:hover { background: rgba(60, 144, 148, 0.7); color: white;}
+.btn-teal-outline { border: 2px solid rgba(60, 144, 148, 1); background: transparent; transition: 0.8s all ease;}
+.btn-dark-teal { background: rgba(18, 104, 108, 1); color: white;}
+.btn-dark-teal:hover { background: rgba(18, 104, 108, 0.7); color: white;}
+.btn-dark-teal-outline { border: 2px solid rgba(18, 104, 108, 1); background: transparent; transition: 0.8s all ease;}
+
+.txt-light-teal { color: #99D3D6 }
+.txt-teal { color: #3C9294 }
+.txt-dark-teal { color: #12686C }
+
+
+/*
+
+lighter teal
+#99D3D6
+
+logo teal
+#3C9294
+
+darker teal
+#12686C
+
+
+ */
