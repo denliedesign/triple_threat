@@ -49,7 +49,7 @@
                 TTPAC NUTCRACKER
             </p>
         <div class="d-flex justify-content-center my-5">
-            <img src="/images/company-3.jpg" alt="company boys on stage" class="img-fluid">
+            <img src="/images/competitive-new.jpg" alt="company on stage" class="img-fluid">
         </div>
             <h3 class="text-center">Company Tuition Packages</h3>
             <p class="text-white text-center" style="opacity: 80%;">

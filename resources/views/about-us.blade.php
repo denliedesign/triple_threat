@@ -228,10 +228,21 @@
                 </p>
             </div>
         </div>
+        <div class="row my-3">
+            <div class="col-sm-2">
+                <img src="/images/staff-alex.jpeg" alt="maya" class="img-fluid">
+            </div>
+            <div class="col-sm-10">
+                <p class="text-white" style="opacity: 80%;">
+                    <strong>Alex Diaz</strong> (bio coming soon)
+
+                </p>
+            </div>
+        </div>
 
         <p class="text-white" style="opacity: 80%;">
-            <strong>Alejandro</strong> (bio coming soon)
-            <br><br>
+{{--            <strong>Alejandro</strong> (bio coming soon)--}}
+{{--            <br><br>--}}
             <strong>Sofia Awikeh</strong> (bio coming soon)
             <br><br>
             <strong>Luann Senisi</strong> (bio coming soon)

@@ -55,7 +55,8 @@ h3 {
 #primary-bg {
     height: 90vh;
     width: 100%;
-    background: url("/images/bg-main-backstage.jpg");
+    /*background: url("/images/bg-main-backstage.jpg");*/
+    background: url("/images/dance-lessons-teach-life-lessons.JPG");
     background-size: cover;
     background-position: top;
     /*background-attachment: fixed;*/
@@ -65,7 +66,7 @@ h3 {
 .color-filter-black {
     position: absolute;
     background: black;
-    opacity: 40%;
+    opacity: 25%;
     height: 100%;
     width: 100%;
     top: 0;
@@ -92,6 +93,16 @@ h3 {
     left: 0;
 }
 
+.color-filter-gradient {
+    position: absolute;
+    background: linear-gradient(to right, black, transparent);
+    opacity: 25%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
 .color-filter-purple {
     position: absolute;
     background: #C01A7F;
@@ -105,7 +116,7 @@ h3 {
 #primary-txt {
     position: absolute;
     top: 20%;
-    left: 15%;
+    left: 5%;
     width: 40%;
     /*transform: translate(-50%, -50%);*/
     font-size: 4em;
@@ -230,14 +241,15 @@ h3 {
 }
 
 #checklist-bg ion-icon {
-    color: #12686C;
+    /*color: #12686C;*/
+    color: #99D3D6;
 }
 
 #checklist-bg {
     min-height: max-content;
     height: 90vh;
     width: 100%;
-    background: url("/images/bg-parents-love.jpg");
+    background: url("/images/parents-love-ttpac-2.JPG");
     background-size: cover;
     background-position: center;
     /*background-attachment: fixed;*/
@@ -247,7 +259,7 @@ h3 {
 #mtjgd-bg {
     height: 100vh;
     width: 100%;
-    background: url("/images/mtjgd-bg.jpg");
+    background: url("/images/mtjgd-bg-2.JPG");
     background-size: cover;
     background-position: center;
     /*background-attachment: fixed;*/
@@ -264,12 +276,14 @@ h3 {
 }
 
 .banner-wrap {
-    height: 300px;
+    /*height: 300px;*/
+    height: 200px;
 }
 
 .banner {
     height: 100%;
-    background-image: url(/images/banner-brooklyn.jpg);
+    /*background-image: url(/images/banner-brooklyn.jpg);*/
+    background-image: url(/images/banner-teal.jpg);
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;

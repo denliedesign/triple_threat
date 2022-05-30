@@ -3,9 +3,10 @@
 
     <div class="gradient-splash">
         <div id="primary-bg">
-            <div class="color-filter-white"></div>
-            <h2 id="primary-txt-mobile" class="d-md-none">dance lessons that teach life lessons</h2>
-            <h2 id="primary-txt" class="d-none d-md-block">dance lessons that teach life lessons</h2>
+{{--            <div class="color-filter-white"></div>--}}
+            <div class="color-filter-gradient"></div>
+            <h2 id="primary-txt-mobile" class="d-md-none text-white">dance lessons that teach life lessons</h2>
+            <h2 id="primary-txt" class="d-none d-md-block text-white">dance lessons that teach life lessons</h2>
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
             {{--        <a href="https://kenosha-academy-performing-arts.studiosuite.io/m/website-studio-info-kit" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-kapa-teal primary-btn-pos btn-family">&#10097; Download Our Studio Info Kit</div></a>--}}
         </div>
@@ -49,19 +50,19 @@
             <h2 class="text-center pt-5 text-white">Dance Classes</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
-                    <img src="/images/styles-ballet.jpg" alt="ballet" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-ballet.JPG" alt="ballet" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-light-teal btn-family mt-2" style="width: 100%;">Ballet</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/styles-jazz.jpg" alt="jazz" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-jazz.JPG" alt="jazz" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family mt-2" style="width: 100%;">Jazz</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/styles-tap.jpg" alt="tap" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-dark-teal btn-family mt-2" style="width: 100%;">Tap</div></a>
+                    <img src="/images/classes-contemporary.jpg" alt="tap" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-dark-teal btn-family mt-2" style="width: 100%;">Contemporary</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/styles-hip-hop.jpg" alt="hip hop" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-hip-hop.JPG" alt="hip hop" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-light-teal btn-family mt-2" style="width: 100%;">Hip Hop</div></a>
                 </div>
 {{--                <div class="col-sm mt-4">--}}
@@ -85,25 +86,25 @@
     </div>
 
     <div id="checklist-bg">
-        <div class="color-filter-white"></div>
-        <h2 class="secondary-txt d-none d-md-block fw-bold" style="color: black;">Parents <ion-icon name="heart"></ion-icon> TTPAC...</h2>
+        <div class="color-filter-black"></div>
+        <h2 class="secondary-txt d-none d-md-block fw-bold" style="color: white;">Parents <ion-icon name="heart"></ion-icon> TTPAC...</h2>
         <div class="row secondary-txt-pos text-center">
             <div class="col-sm">
-                <p class="my-0 text-capitalize">
+                <p class="my-0 text-white text-capitalize">
                     <ion-icon name="heart"></ion-icon> Safer Studio
                     <br><ion-icon name="heart"></ion-icon> Tech Enabled
                     <br><ion-icon name="heart"></ion-icon> Secured Facility
                 </p>
             </div>
             <div class="col-sm">
-                <p class="my-0">
+                <p class="my-0 text-white">
                     <ion-icon name="heart"></ion-icon> Written Curriculum
                     <br><ion-icon name="heart"></ion-icon> Full-Time Admin
                     <br><ion-icon name="heart"></ion-icon> YPAD Certified
                 </p>
             </div>
             <div class="col-sm">
-                <p class="my-0">
+                <p class="my-0 text-white">
                     <ion-icon name="heart"></ion-icon> Community Service
                     <br><ion-icon name="heart"></ion-icon> Background Checked
                     <br><ion-icon name="heart"></ion-icon> CPR Trained

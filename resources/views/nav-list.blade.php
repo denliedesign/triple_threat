@@ -27,6 +27,6 @@
         <a class="nav-link" href="/calendar">Calendar</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/registration">Registration</a>
+        <a class="nav-link" href="/registration">Register</a>
     </li>
 </ul>
