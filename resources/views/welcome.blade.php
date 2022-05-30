@@ -50,11 +50,11 @@
             <h2 class="text-center pt-5 text-white">Dance Classes</h2>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-ballet.JPG" alt="ballet" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-ballet.jpg" alt="ballet" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-light-teal btn-family mt-2" style="width: 100%;">Ballet</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-jazz.JPG" alt="jazz" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-jazz.jpg" alt="jazz" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-teal btn-family mt-2" style="width: 100%;">Jazz</div></a>
                 </div>
                 <div class="col-sm mt-4">
@@ -62,7 +62,7 @@
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-dark-teal btn-family mt-2" style="width: 100%;">Contemporary</div></a>
                 </div>
                 <div class="col-sm mt-4">
-                    <img src="/images/classes-hip-hop.JPG" alt="hip hop" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
+                    <img src="/images/classes-hip-hop.jpg" alt="hip hop" class="img-fluid shadow rounded" style="max-height: 229px; object-fit: cover; object-position: -20% 0; width: 100%;">
                     <a href="/class-schedule" class="btn-opacity"><div class="shadow btn btn-lg btn-light-teal btn-family mt-2" style="width: 100%;">Hip Hop</div></a>
                 </div>
 {{--                <div class="col-sm mt-4">--}}
