@@ -208,7 +208,7 @@
         </div>
         <div class="row my-3">
             <div class="col-sm-2">
-                <img src="/images/staff-jordan.jpg" alt="jordan" class="img-fluid">
+                <img src="/images/staff-jordan.png" alt="jordan" class="img-fluid">
             </div>
             <div class="col-sm-10">
                 <p class="text-white" style="opacity: 80%;">
