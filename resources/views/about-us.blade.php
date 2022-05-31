@@ -239,15 +239,33 @@
                 </p>
             </div>
         </div>
+        <div class="row my-3">
+            <div class="col-sm-2">
+                <img src="/images/elena-donofio.jpg" alt="elena" class="img-fluid">
+            </div>
+            <div class="col-sm-10">
+                <p class="text-white" style="opacity: 80%;">
+                    <strong>Elena D'Onofrio</strong> (bio coming soon)
+
+                </p>
+            </div>
+        </div>
+        <div class="row my-3">
+            <div class="col-sm-2">
+                <img src="/images/luann-senisi.jpeg" alt="luann" class="img-fluid">
+            </div>
+            <div class="col-sm-10">
+                <p class="text-white" style="opacity: 80%;">
+                    <strong>Luann Senisi</strong> (bio coming soon)
+
+                </p>
+            </div>
+        </div>
 
         <p class="text-white" style="opacity: 80%;">
 {{--            <strong>Alejandro</strong> (bio coming soon)--}}
 {{--            <br><br>--}}
             <strong>Sofia Awikeh</strong> (bio coming soon)
-            <br><br>
-            <strong>Luann Senisi</strong> (bio coming soon)
-            <br><br>
-            <strong>Elena Donofrio</strong> (bio coming soon)
         </p>
         <h3 class="mb-0 pb-0">TTPAC ASSISTANTS</h3>
         <p class="text-white" style="opacity: 80%;">
