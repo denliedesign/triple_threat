@@ -74,3 +74,7 @@ Route::middleware([
         return view('dashboard');
     })->name('dashboard');
 });
+
+Route::get('trial', 'App\Http\Controllers\TrialController@create')->name('trial.create');
+Route::post('trial', 'App\Http\Controllers\TrialController@store')->name('trial.store');
+
