@@ -27,7 +27,7 @@
                     <ul class="list-group">
                         <li class="list-group-item px-0 border-0" style="background: black; color: white;">
                             <ion-icon name="navigate"></ion-icon>
-                            7223 20th Ave Brooklyn, NY
+                            7302 15 Avenue, Brooklyn, NY 11228
                         </li>
                         <li class="list-group-item px-0 border-0" style="background: black; color: white;">
                             <ion-icon name="call"></ion-icon>
@@ -36,6 +36,12 @@
                         <li class="list-group-item px-0 border-0" style="background: black; color: white;">
                             <ion-icon name="mail"></ion-icon>
                             <a href="mailto:triplethreatdancecompany@gmail.com" style="color: white; text-decoration: none;">triplethreatdancecompany@gmail.com</a>
+                        </li>
+                        <li class="list-group-item px-0 border-0" style="background: black; color: white;">
+                            <strong>Register:</strong> Sept 4-6th 5-8pm
+                        </li>
+                        <li class="list-group-item px-0 border-0" style="background: black; color: white;">
+                            First day of classes: Sept 9th
                         </li>
                     </ul>
                 </div>
@@ -69,7 +75,7 @@
 </div>
 
 <div id="bottom" class="text-white-50 text-center pt-3" style="background: black;">
-    © 2022 Triple Threat Performing Arts Company
+    © 2024 Triple Threat Performing Arts Company
 </div>
 <p id="credit" class="text-center m-0" style="background: black;">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>

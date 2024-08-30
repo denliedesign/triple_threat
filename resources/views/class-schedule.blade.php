@@ -8,7 +8,7 @@
 
     <div class="container">
         <div class="d-flex justify-content-center">
-            <img src="/images/class-schedule-2022-2023.jpg" alt="" class="img-fluid">
+            <img src="/images/schedule-24-25.jpeg" alt="" class="img-fluid rounded mt-4">
         </div>
 {{--        <h1>2021-2022 RECREATIONAL SCHEDULE</h1>--}}
 {{--        <p class="text-white" style="opacity: 80%;">--}}
